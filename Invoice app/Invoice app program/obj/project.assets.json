@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Invoice app program\\Invoice app program.csproj",
+      "projectUniqueName": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Invoice app program\\Invoice app program.csproj",
       "projectName": "Invoice app program",
-      "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Invoice app program\\Invoice app program.csproj",
+      "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Invoice app program\\Invoice app program.csproj",
       "packagesPath": "C:\\Users\\Andrej\\.nuget\\packages\\",
-      "outputPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Invoice app program\\obj\\",
+      "outputPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Invoice app program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Models\\Models.csproj": {
-              "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Models\\Models.csproj"
+            "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Models\\Models.csproj": {
+              "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Models\\Models.csproj"
             }
           }
         }

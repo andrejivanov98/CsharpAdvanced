@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Models\\Models.csproj": {}
+    "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Models\\Models.csproj": {}
   },
   "projects": {
-    "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Models\\Models.csproj": {
+    "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Models\\Models.csproj",
+        "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Andrej\\.nuget\\packages\\",
-        "outputPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Homework 01-Invoice app\\Invoice app\\Models\\obj\\",
+        "outputPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Advanced C#\\Homeworks\\Invoice app\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrej\\AppData\\Roaming\\NuGet\\NuGet.Config",

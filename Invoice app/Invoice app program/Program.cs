@@ -26,7 +26,7 @@ namespace Invoice_app_program
 
             //------------------------------------------------Functionalities and Data------------------------------------------------------------------------------------------------
 
-            Console.WriteLine("WELCOME!");
+            Console.WriteLine("WELCOME !!!");
             Console.WriteLine("In order to enter the application, please log in.");
             Console.WriteLine("Please enter username:");
             string username = Console.ReadLine();
