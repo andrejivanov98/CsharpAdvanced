@@ -1,0 +1,16 @@
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\bin\Debug\net5.0\Exercise 01.exe
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\bin\Debug\net5.0\Exercise 01.deps.json
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\bin\Debug\net5.0\Exercise 01.runtimeconfig.json
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\bin\Debug\net5.0\Exercise 01.runtimeconfig.dev.json
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\bin\Debug\net5.0\Exercise 01.dll
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\bin\Debug\net5.0\ref\Exercise 01.dll
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\bin\Debug\net5.0\Exercise 01.pdb
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\obj\Debug\net5.0\Exercise 01.csprojAssemblyReference.cache
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\obj\Debug\net5.0\Exercise 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\obj\Debug\net5.0\Exercise 01.AssemblyInfoInputs.cache
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\obj\Debug\net5.0\Exercise 01.AssemblyInfo.cs
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\obj\Debug\net5.0\Exercise 01.csproj.CoreCompileInputs.cache
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\obj\Debug\net5.0\Exercise 01.dll
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\obj\Debug\net5.0\ref\Exercise 01.dll
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\obj\Debug\net5.0\Exercise 01.pdb
+D:\Andrej's folder\Private division\SEDC-private\Advanced C#\Homeworks\Abstract classes and interfaces\Abstract classes and interfaces\Exercise 01\obj\Debug\net5.0\Exercise 01.genruntimeconfig.cache
