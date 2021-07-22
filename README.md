@@ -1,2 +1,2 @@
 # SEDCCsharpAdvancedHomeworks
-CsharpAdvanced Homworks
+Csharp Advanced Homeworks for SEDC
